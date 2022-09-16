@@ -16,8 +16,7 @@ from regression_model.processing import features as pp
 
 price_pipe = Pipeline(
     [
-        # ===== IMPUTATION =====
-        # impute categorical variables with string missing
+       
         (
             "missing_imputation",
             CategoricalImputer(
