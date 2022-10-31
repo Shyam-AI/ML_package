@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 NAME = 'ML-Packaging'
 DESCRIPTION = "Example regression model package from Train In Data."
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
+URL = "https://github.com/Shyam-AI/ML_package"
 EMAIL = "shyamdl2803@gmail.com"
 AUTHOR = "Shyam-AI"
 REQUIRES_PYTHON = ">=3.6.0"
